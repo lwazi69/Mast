@@ -95,3 +95,7 @@
 
 </body>
 </html>ading index.html…]()
+
+Changes made 
+
+i have changed the css styling for my code amd i have more pages to my code i also added sliders and filters to my code the only problem was the emulator as the type script has unclearable errors for some reason but everything else works
